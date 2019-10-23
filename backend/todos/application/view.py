@@ -86,7 +86,7 @@ def save_task(user_id):
     return jsonify(new_task)
 
 
-@app.route('/users/<int:user_id>/tasks/task_id', methods=['DELETE'])
+@app.route('/users/<int:user_id>/tasks/<int:task_id>', methods=['DELETE'])
 def delete_task(user_id, task_id):
 
     task = MyTask.query.filter_by(id=task_id, user_id=user_id).first()
