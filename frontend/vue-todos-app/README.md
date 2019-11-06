@@ -1,5 +1,10 @@
 # vue-todos-app
 
+
+<img src="./src/assets/todos-app.gif" />
+
+
+
 ## Project setup
 ```
 npm install
