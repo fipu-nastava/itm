@@ -1,10 +1,12 @@
 from flask import Flask, request, jsonify
 from flask.json import JSONEncoder
+from flask_cors import CORS
 from datetime import datetime
 from decimal import Decimal
 from .model import MyUser, MyTask, db
 
 app = Flask(__name__)
+CORS(app)
 
 
 def create_app():
@@ -84,6 +86,23 @@ def save_task(user_id):
     db.session.commit()
 
     return jsonify(new_task)
+
+
+@app.route('/users/<int:user_id>/tasks/<int:task_id>', methods=['PUT'])
+def update_task(user_id, task_id):
+
+    data = request.get_json()
+
+    task = MyTask.query.filter_by(id=task_id, user_id=user_id).first()
+
+    task.content = data["content"]
+    task.checked = data["checked"]
+
+    db.session.add(task)
+
+    db.session.commit()
+
+    return jsonify(task)
 
 
 @app.route('/users/<int:user_id>/tasks/<int:task_id>', methods=['DELETE'])

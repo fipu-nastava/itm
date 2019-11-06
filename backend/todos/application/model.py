@@ -32,6 +32,7 @@ class MyTask(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     content = db.Column(db.Text, nullable=False)
     created_at = db.Column(db.DateTime(), default=datetime.now(), nullable=False)
+    checked = db.Column(db.Boolean, default=False, nullable=False)
 
     user_id = db.Column(db.Integer, db.ForeignKey('my_user.id'), nullable=False)
 
@@ -41,7 +42,8 @@ class MyTask(db.Model):
         return {
             'id': self.id,
             'content': self.content,
-            'created_at': self.created_at
+            'created_at': self.created_at,
+            'checked': self.checked
         }
 
 
