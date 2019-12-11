@@ -2,9 +2,9 @@
   <div class="todo-list">
     
 
-    <div class="header">
+    <div class="header placeholder" :data-placeholder="suggestedValue">
         <h2>My To Do List</h2>
-        <input v-model="newTodo" @keyup.enter="addItem()" type="text" placeholder="Type your todo list...">
+        <input v-model="newTodo" @keydown.ctrl="acceptSuggested()" @keyup.enter="addItem()" @keyup="suggest($event)" type="text" placeholder="Type your todo list...">
         <span @click="addItem()" class="add-btn">Add</span>
     </div>
 
@@ -36,7 +36,8 @@ export default {
     },
     data() {
         return {
-            newTodo: ""
+            newTodo: "",
+            suggestedValue: ""
         }
     },
     methods: {
@@ -66,6 +67,41 @@ export default {
         },
         updateItem(item) {
             this.$emit("update:todo-item", item)            
+        },
+        acceptSuggested() {
+
+          if(this.suggestedValue != null && this.suggestedValue.length > 9)
+            this.newTodo = this.suggestedValue;
+        },
+        suggest(event) {
+
+          if(event.key == "Control")
+            return
+
+          if (this.timer) {
+            clearTimeout(this.timer);
+            this.timer = null;
+          }
+          this.timer = setTimeout(() => {
+            this.suggestTask()
+          }, 800);
+        },
+        async suggestTask() {
+
+        this.suggestedValue = "";
+
+          if(this.newTodo != null && this.newTodo.length > 9){
+             
+             try {
+                  const response = await fetch("http://localhost:8011/predict/" + this.newTodo)
+                  const data = await response.json()
+                  console.log(data)
+                  this.suggestedValue = data.predicted
+              } catch (error) {
+                  console.error(error)
+              }
+
+          }
         }
     }
 }
@@ -188,6 +224,21 @@ ul li.checked::before {
 .close:hover {
   background-color: #f44336;
   color: white;
+}
+
+.placeholder {
+    position: relative;
+}
+
+.placeholder::after {
+    position: relative;
+    top: -29px;
+    content: attr(data-placeholder);
+    pointer-events: none;
+    opacity: 0.6;
+    left: 10px;
+    color: black;
+    font-size: 16px;
 }
 
 

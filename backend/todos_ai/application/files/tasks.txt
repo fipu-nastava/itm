@@ -1,0 +1,621 @@
+Taxes for 2015
+add doctor to .private on arch
+fix snippet for journal to new style
+document node install
+npm - install learnyounode
+npm - install prompt
+Clear out small garden bed
+Get more dirt
+plant more plants
+Go get dirt from lowes
+Go get plants at Tilth Sale
+most of the planting
+email daniel about strawberries
+clean bathroom
+look into CLOCK Tag appearing on the agendaXb
+Disable dock
+Create symlink
+Read Modules 1-4
+complete "Learn by Doing" and "Did I get this?"
+checkpoint 1
+checkpoint 2
+StatTutor - College Drinking   drinking.xls
+checkpoint 1
+course intro
+syllabus quiz
+Hand Work
+HW 1
+Quiz
+Set up org file for garden
+Break out concrete slab
+finish mowing
+clean up woodpile
+firepit
+barrels
+household - setup vlc @ term on doctor
+household - water plants
+emacs - fix emmet-expand-yas keybind to tab in web mode
+javascript - eloquent JS
+household - Git training with caitlin
+eloquent file management
+create a yank-to-other-window
+figure out Footnotes
+find bindings for moving into other windows when in org mode and closing frames
+evaluate org-support-shift-select
+Buy Scale
+Buy container mix
+paper for the upstairs desk
+order a meditation cushion
+create project file format stuff
+Watch 'Stalker'
+Get function entering Clock
+Install Quicksilver and experiment
+clean sync textexpander via dropbox
+Take out the dog
+Wash the dishes
+Clean the carpet
+Get the oil change
+Go pick up my son from school
+Fix the CD ROM drive on my computer
+Practice Mandarin Chinese
+Clean the litter box
+Rent a carpet cleaning machine
+Install my new sink
+Tuscon: buy cannister fuel
+Tuscon: buy two 1L smartwater bottles
+learn guyline knots/technique
+set up tent
+test sleep system
+make travel arrangements to Lordsburg
+make travel arrangements from Albuquerque
+identify 4-6 dinner recipes
+buy ingredients
+test cook recipes
+package food
+assemble first aid kit
+assemble toiletries kit
+assemble repair kit
+buy stuff sacks/pack backpack
+resupply plan
+prepare resupply boxes
+print maps
+plan route and options/datasheets
+make windscreen and pot cozy
+test sawyer squeeze
+watch skurka sd live videos and take notes
+download apps and maps
+hike 20 miles with pack
+review orienteering basics
+cannister use-days simulation -> 6 days / 110g
+pay ATT
+pay comed
+pay mortgage
+pay student loan
+update address-ATT
+craigslist ad-old bike
+reconcile bank statement
+choose front door fixture
+pricecheck ATT cell
+call amazon about kindle
+figure out bookmarks
+caulk back light
+find new insurance agent
+replace humidifier air filter
+annual physical
+clean closet
+give old clothes to dress4success
+menu for thanksgiving
+buy flower girl headbands
+buy bridal party gifts
+get wedding insurance
+book honeymoon
+Blame function to find who got the bot to post a message
+Character editor & morphs
+Command to generate a digital whiteboard.
+Testing for Frame responses
+fix bugs Sprint 131 [techdebt]
+Bullets: Buckshot Simulation
+Suport Unity 5.5
+Upload photos to gmail
+helmet battles are too low
+New farms/crops
+Review all cards with purple labels and put your name on card if you can help present this topic
+Apply to Southxchange
+Add support for Scrum for Trello Points export
+Contact people to look for money in Myanmar (Ben, Thieu)
+Recheck guild names in case they change it
+Rewrite for Roslyn / VS2015
+Study the tools of the Flex group
+Build trivia functions for vampy.
+Security - Add checksums and those types of things whereever we can -- write up educational post on how to check a them
+Remember the Milk
+Add support to register files/dirs to removal
+Migrate JVM compiler to Graal/Truffle
+Proper documentation for the programming language.
+Achievements framework
+Add trial info to IAP screen
+Add wagon commands to documentation
+Email people affected by timezone bug
+Identify office/place for me to live
+Call Phil Smith, Mark Fukuda
+Add ability to get list of all keys or buttons pressed
+Better caching of devices
+Ability to move shape library panels on either side of Graph editor to any side
+Extrude not updating shape changes. Had to create a new Extrude node.
+Crypto
+Word query filter for the `=wolf` command.
+Pivotal Tracker
+Improve loading times
+Reduce selection of Desktop Effects?
+Open types and open functions
+Make Payment - Confirmation Message after MTC payment
+SHM integration
+Amethyst: What's needed for focus follows mouse?
+Trait for fruiters
+Adjust clock reading code to changes since Kepler2
+Email/Call Dan Strickman
+Donate on behalf of other users
+Enable `W` in travis/make check.
+Simplify the language by removing the Char type
+(3) Create a process for onboarding future SDN partners [partners]
+Copy & Paste does not work properly.
+fix coffee pot dispenser
+switch craigslist ads to denise
+put small persian rug on ebay
+get rid of scrap paper on desk
+research cell phone plans
+put old cell phone up for sale
+get suit for Boston
+get up to date with personal finance project
+itemize and donate clothes
+primary physician
+gynecologist
+send info to credit bureau
+write nutrition paper
+book babysitter
+Discover ideas [www.fotavo.com]
+Schedule appointments with site managers
+Schedule appointments with caterers, if necessary
+Hire wedding consultant
+Book reception venue and sign contract
+Interview potential caterers
+Hire caterer and sign contract
+Make appointment for menu tasting
+Schedule cake tasting
+Place order for wedding cake (and groom's cake, if desired)
+Schedule appointments with site coordinators/officiants
+Book a site for ceremony and sign contract
+Book officiant
+Set a meeting with officiant to go through and confirm the details
+Contact local town clerk's office to arrange marriage license
+Get marriage license
+Obtain contact numbers for site coordinator and officiant for wedding day
+Assign maid of honor / one attendant to arrange train and/or veil at altar
+Assign maid of honor or another attendant to hold your bouquet and/or glove during ceremony
+Share contact numbers with at 2 people
+Assemble emergency supply kit for wedding day and find a place to keep it
+Arrange flowers (if applicable)
+Reserve any necessary rental items
+Purchase/make pillow for ring bearer
+Arrange guest book
+Obtain phone numbers of coordinator, rental company and caterer
+Delegate friend/family member to take top tier of wedding cake and topper home and freeze for you.
+Provide final headcount to site coordinator
+Confirm with your rental company all details, times, and sites where items must be delivered/picked up
+Give site coordinator arrival times for all service providers
+Give cake-cutting knife and toasting glasses to site coordinator/caterer
+Ask caterer/coordinator to have top teir of wedding cake packed up for you (to save for first anniversary)
+Ask caterer/coordinator to have cake topper packed up for you.
+Arrange floral decor
+Reserve rental items
+Schedule delivery and pickup of rental items
+Select cake topper
+Give cake topper to cake designer
+Arrange special cake-cutting knife
+Arrange special toasting glasses for you and groom
+Arrange reception music
+Arrange other decor
+Make menu selection
+Arrange guest parking
+Organize seating chart
+Compose toast
+Get a feel for different photography style [www.fotavo.com/homepage]
+Schedule interviews with photographers (and videographers)
+Hire photographers (and videographers) and sign contract
+Schedule sitting for engagement portrait
+Confirm final details with photographer (and videographers)
+Make your hotel reservation for wedding night
+Hold block of hotel rooms for out-of-town guests
+Assemble welcome baskets for guests' rooms
+Schedule appointments at bridal salons
+Make appointments for gown fittings
+Inquire as to what you need to bring to fittings
+Discuss bustle style of train with seamstress
+Have shoes dyed to match gown
+Pick up the dyed shoes
+Pick up the gown
+Buy garter
+Buy earrings
+buy necklace
+Buy other jewelry
+Buy hair accessories
+Buy purse
+Buy wrap
+Buy gloves
+Buy going-away outfit
+Buy rehearsal dinner outfit
+Order stationery items
+Buy special postage stamps for invitation envelopes and response envelopes
+choose songs for wedding
+Compile guest list
+Schedule appointments with site managers or caterers
+Book site, caterer, sign contract and sign deposit
+Plan menu
+Order/create invitations, call invitees, or compose email invitations
+Send invitations
+Tally final guest count with site manager/caterer
+organize closets
+move over stuff from grandpa's to our house
+get light bulbs from grandpa's house
+get outdoor toys
+take curtains to BBB
+find healthy baking recipes
+start meal planning for the week
+go over budget with Matt
+request permit for signage
+request permit for aframe
+get bills on autopay
+craigslist add for wishlist items
+business cards
+compile email list
+fix website
+rework donation receipt template
+change address
+return keys
+pick up mail at post office
+transfer internet
+draft press release
+take out trash
+get keys made
+subscription to safari library online
+sound proofing for office
+tripod for camera
+repair laundry room floor
+Audit Food & Experience tags
+Kirsten "For Organizers" request
+Local Outing (Visit Lyon St. and Wolfgangs)
+Fold shirts for SF
+Lead on Juiceblendz. I did some advertising for her last year and have all of her contact information.
+Give access to trello, email, and dropbox
+Followup with restaurants
+Create <Select Charity> option on iOS and Android apps
+Put posters back up on GV campus
+Get 2 Posters from Kyle. Get them approved and put up around campus!
+Apply for MADWorks Accelerator Grant
+format GAC Business Plan
+Contact student orgs regarding Storyteller Rotation
+Followup with World Renew
+Find public Trello Boards
+Created Suspended Dish Campaign
+Brainstorm restaurants that could add variety to the F.C. app.
+Coordinating Nominate A Family Event
+Iterate Window Seal
+Set Admin Access
+Call Greg Sims back
+Invoice Apr-May, send June reports
+Finish student documentation
+Do a followup story w/ Rapidian on our community-run ideals, as they too, are community-owned.
+Leaving foursquare tips
+Promotion request form from KFB
+Bring up to speed on posting to Twitter
+convert Currey email to blogpost
+Evaluating Seattle NPOs
+Start building out new material
+Follow up with John @ Rapid Growth after new year
+badges, monthly report assignments
+Create content for new restaurants
+Debrief Storyteller Internship
+Create time interval data for all Used vouchers from purchase timestamp to modified timestamp
+Business cards
+Send "Lessons Learned" blogpost to\u2026
+Continue with ROH connections with Allison
+Choose 3 restaurants and ask FAWM to invite them
+Contact Stella's staff on interest for "Stella's Super Mario Party"
+external integration: Yelp
+3 stories of everyday people using FoodCircles
+postcard followup
+Launch Seattle
+Print Gen. Giveaway
+Reach out to Seattle restaurant coalition orgs
+EC: Week of the 2nd
+For Organizers news photo
+Issue reports, invoices, and donations for Feb and Mar
+Send prayer update
+Get involved in festivals/fairs?
+Get 2nd/3rd page content to Manoj
+Event Idea: Coordinate benefit concert with Andrew Harmon
+seal iteration pt 2
+Host Kangaroo Poster & Window Seal @ KFB
+Test new Android app!
+Define updating workflow for expansion plan
+Concept Window Seal
+Growth Plan Changes
+Prepare Happy Hour Carol Tour
+Followup with National NPOs
+Launch Heartside Gleaning Initiative
+Dashboard for Social Media
+Launch Video news photo
+invoicing Nov-Dec
+Visit San Chez Bistro about a dish change
+Learn about "Cold Calling" from Kyle
+Accelerator apps ZFE / ycomb / incub8
+Mobile Design: Android update needs 9patch assets
+Call a "townhall meeting" at GRBC and personally invite all past/current owners to give input.
+Event Idea: Dollar Lunch Day
+Print/have fedex cut 300 giveaways
+Creating Editorial Calendar
+User update / sledding tomorrow
+Design project for development intern at FAWM. Document on how to reach out to restaurants
+Brainstorm followup experience post-purchase.
+Clean granola out of backpack
+Food Circles Party!
+Followup with Jenny at KFB about the restaurants' promo request form
+Apply for Grad. Student assistance from UM
+Look over promo and business plans
+Download / Cleanse Jan. Dataset
+Local storyteller/partnership coordinator(s)
+Ask KFB for list of restaurants they have worked with in the past.
+Make Murphy's profile
+The Nonprofit Photo Album
+Hire content writer
+FoodCircles for Dummies
+After the 3 new restaurants have been added, then ask Andrew to send an email to their supporters
+David's Google Doc
+Debrief Constantly \u2013 Call Brooke and discuss how HHCT III went
+Nonprofit photography
+Stage Currey's Email
+Create walkthrough powerpoint for restaurants
+blog post for friend-gineers "credits"
+Design nonprofits-to-restaurants landing page
+Catch the F up on email
+Send Abby her shirt at                247 W 15th St. Holland, MI 49423
+format Exec. Summary
+Add coffeeshops to app
+Create powerpoint deck
+install new copy
+Ask IC to recommend us to ILG
+Gather information from Erin about GVSU orgs. that might be a good fit for NPO interns to focus on F.C. concepts
+Feeding America WM Launch
+Invite restaurants (and NPOs) to Patagonia event next week
+Design two followup templates
+Post photos from giving last week
+Activate new Local Storytellers (Summer term)
+Charity Card for Cherie Inn, Red Jet Cafe, Citysen
+Update llc paperwork
+Outreach to 10 restaurants
+Speak to your first restaurant
+Add new team image/team shadow to About We page
+Give FoodCircles gifts to people
+Lay out type on Grace's Photo
+Compile SF Addresses for Shirts
+Pull April reports/make april donations
+Build 3 corporate partnerships
+Buttons for Taylor
+Schedule one tabling event
+Trello Apps - Fog Creek Software
+Send shirts to our Inner Circlers
+Convert FAWM and KFB into active partners
+Twitter rehash
+Fall Internship \u2013 FoodCircles
+Teardowns
+Write up sample posts about restaurants that non profits can use.
+Create Digital Storyteller job post
+Send checks to Joey
+Add Local Storyteller to the team
+Pre-order from NPO in another state
+Dish Updates
+Content Plan for Social Media
+Jan event: Sled meetup/hot chocolate night at RJC
+Orient and Launch the 2 Gilmore concepts (Gilly's and Bobarino's)
+Leaving Yelp reviews
+Research coasters
+write appt emails (BV, UIX, AD mtg, GVSU)
+Label/Mail shirts for SF
+coffeeshop emails
+Arrange print run: giveaway cards
+Breakposter -- drop offs
+Feeding America West Michigan Many hands Against Hunger summer fundraising luncheon
+Followup with GR restaurants
+Switch LB's to Thursdays
+Inner Circle Development
+Press Followups
+Expansion intern
+Create restaurant cards for nonprofits
+Distribute Window Seals
+Drop off checks (amounts, address, etc.)
+Bring up to speed on posting to facebook and instagram
+4000 press release
+Partnerships inside the Downtown Market
+Encourage nonprofits to announce results to restaurants as well as their supporters
+Local Partnerships
+New social covers
+Events \u2013\xa0Union, 1964 giftbox
+Orient Matt Horan at Mangiamo
+Donate/send 5000 email
+Mail nonprofit checks to Kyle!!!!!
+build a new spinning wheel
+#perfectnight checklists
+Social Charity Club GR
+Set new email address to Send As "neik@joinfoodcircles.org"
+Write bio on Murphy's
+redesign nonprofits landing page
+Update contacts and send briefs list update
+Create commission and team-building strategy.
+EC: Week of the 9th
+Post Local Storyteller position
+Iron shirts for Flat lander's
+Make Sept donations / pull reports
+Host Kangaroo Poster & Window Seal @ Cheeky Strut
+Connect with KFB/FAWM/ACT over checks
+Get back to email
+Meet with Electric Cheetah/Uncle Cheetah
+Cut Table Tents
+Organizer Request \u2013 Christina at GVSU
+Local Restuarant followup
+Contact Mars Hill about HQ and marketing
+Get people paid for KFB
+work on Mario Party #2 with Yelp! GR
+QweryBuilder - www.werysoft.com
+Mail postcards to our wishlist restaurants
+Distribute summer donations to NPOs
+350 Giveaways for Odd Ball
+French Darts final site to-do's
+Review and Plan Press Release
+Reading Colloquium
+Set Dropbox
+Blogpost: Founder of OpenTable
+Givesake run \u2014 (Print Customer Service Fail, Gave More)
+Apply for Fast Pitch w/ UGM
+get back to emails
+Have fun at the Super Mario Party
+Followup with Local Restaurants
+print general giveaways for David
+GVSU research
+Shirt / Seal Campaign
+Make Taco's profile
+cherie Inn table event
+Ironing shirts for staff
+Documentary Night
+Calculate average donation by restaurant
+Get print material in 616Lofts resident hands
+team happy hour at ESB
+GVSU Catering Request -- Offer to Current Restaurants
+Ann Arbor followups
+Issues in Trello dependencies\nFog Creek Software
+Compile new MC subscribers (users and emails) and send them the last email campaign
+Drop off checks / meet KFB and FAWM teams
+CONTACT BOOK
+GVSU Catering Request: Offer to Potential Restaurants
+Happy hour carol tour
+Followup with restaurant invoices
+Grand Rapids Young Professionals
+Get some help finding and publicizing interesting boards.
+
+Swap the "default" symbol in the `perms show` command
+Follow-up with Monica
+Examine and adopt lowfat config
+Viscera Cleanup Detail: Shadow Warrior
+Improve RemoveUnusedProxies
+Give more flexibility to -doc code sections.
+Call John McCain's team
+Add auto_unmount option for GlusterFS fuse mounts.
+Add ammo count and reload bar to mount points as overlay
+Merge upstream changes to liquid fork
+Take out the 'Application' view for 'SuperAdmin'
+PowerMenu - Ribbon scroll changed to be more intuitive.
+afreeca tv notification
+Memory Trees
+grandpa inv numbers and bills paid
+order new checks
+email myer about fdo taxes
+trial balance and general ledgers for bryan
+to do QB
+dissolve IL llc
+pay avis
+call lesko clients
+call city of somerville and genki tenants
+seek new investment ideas
+repair roof
+touch base w judy on WF account
+send note to cindy regarding dance studio taxes
+call with matt from citizens
+pay genki violation
+call exterminators
+update spreadsheets
+send email re pavan and bucket list
+compare different loan options
+new org chart
+headphone tracking
+pay rent
+send info to appraiser
+dropbox charges
+call with tj
+send dana email regarding insurance
+pay NY tax bill
+send updated financials to Armand
+resend check to Richard
+look at airbnbs in binghamton
+call zacky abt CFB rent
+pay plumber
+Map out building locations
+pay roofer
+order gpa mount
+change address at bank
+cancel renters insurance with AAA
+Buy mirror for upstairs bathroom
+Measure and order new air filter for furnace
+Register home warranty
+Update billing info on Cap One
+Mail change of address at DMV
+Pick up moving truck at 5:30pm Friday
+Submit change of address with USPS
+Deposit $400 at Exchange
+Call to shut off water
+Call to shut off gas
+Call to find out about moving truck
+Vacuum hardwoods & couch
+Pick up more boxes
+Cancel Comcast Internet
+Pay SF Parking Ticket. :(
+Pack kitchen
+Set up garbage at Cerro
+Pack spare room
+Pay water bill
+Pay PG&E
+Pay Expression
+Wash Mazda
+Research bathroom mirrors online
+Pay DMV for Harley before May
+Sign up for pottery
+Picture project
+Organize pictures online
+Home security research
+Sign up for Spanish
+Read two money moustache q day
+Sign up emrap conference
+umbrella insurance
+Appointment with capital women's care
+Talk to few lawyers
+Photo session at home
+Start a blog
+Return models
+Apple appointment
+Kansas City tickets
+Book a car - dec 13-17
+Cvs
+Buy Nicaragua tickets
+Notarize documents
+Find a photographer/marriage counselor in Hawaii
+Pay BGE
+talk to Mike
+ask Chris about shadow for Jan 20
+schedule DHPP shot
+read phishing article
+read Glowforge manual
+read book
+order a cake
+mop floors
+clean bathroom
+healthcare.gov
+set up treznor
+pay bills
+clean kitchen
+call grandmom
+get return flight
+move the pee pad
+replace shoes
+glue pumpkin
+sweep
+do safety training
+call health care thing
+call dad re: moving boxes

@@ -43,7 +43,7 @@ export default {
     methods: {
         async getTodos() {
             try {
-                const response = await fetch("http://localhost:8000/users/1/tasks")
+                const response = await fetch("http://localhost:8010/users/1/tasks")
                 const data = await response.json()
                 console.log(data)
                 this.userTodoList = data
@@ -62,7 +62,7 @@ export default {
                         headers: { "Content-type": "application/json; charset=UTF-8" },
                     }
 
-                const response = await fetch("http://localhost:8000/users/1/tasks", args)
+                const response = await fetch("http://localhost:8010/users/1/tasks", args)
 
                 const data = await response.json()
                 this.userTodoList = [...this.userTodoList, data]
@@ -81,7 +81,7 @@ export default {
                         headers: { "Content-type": "application/json; charset=UTF-8" },
                     }
 
-                const response = await fetch("http://localhost:8000/users/1/tasks/" + todoItem.id, args)
+                const response = await fetch("http://localhost:8010/users/1/tasks/" + todoItem.id, args)
                 const data = await response.json()
 
                 this.userTodoList = this.userTodoList.map(ti => (ti.id === data.id ? data : ti))
@@ -96,7 +96,7 @@ export default {
 
                 const args = {method: "DELETE"}
 
-                await fetch("http://localhost:8000/users/1/tasks/" + todoItem.id, args);
+                await fetch("http://localhost:8010/users/1/tasks/" + todoItem.id, args);
 
                 this.userTodoList = this.userTodoList.filter(ti => ti.id !== todoItem.id);
             } catch (error) {
